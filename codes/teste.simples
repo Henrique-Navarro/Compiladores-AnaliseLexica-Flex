@@ -1,0 +1,14 @@
+/*-----------------------------
+  Primeiro programa em Simples.
+  -----------------------------*/
+programa teste
+  inteiro A B
+inicio
+  // A variavel A recebe 5
+  A <- 5
+  leia B
+  enquanto A < B faca
+     escreva A
+	 A <- A + 1
+  fimenquanto
+fimprograma

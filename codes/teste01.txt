@@ -1,0 +1,19 @@
+//comentario01
+/**comentario02**/
+/*
+    comentario03
+*/
+programa inicio fimprograma leia escreva
+se entao senao fimse 
+enquanto faca fimenquanto 
+V F
+; ; ;
+inteiro logico
+div e ou nao
+a b c
++ - * 
+A1 A2 A3
+123 456 789
+1A 2B 3C
+< <- > 
+123abc-+*/(){}[]&|':;.,_"?@$&=><!#

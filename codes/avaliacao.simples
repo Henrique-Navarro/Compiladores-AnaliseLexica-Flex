@@ -1,0 +1,26 @@
+/*ARQUIVO DE AVALIACAO*/
+
+///////////////////////////
+//	TESTE
+///////////////////////////
+
+/*PROGRAMA REPETE*/
+programa repete
+	inteiro i j
+
+/*INICIO*/
+inicio
+	i <- 1
+	/*ENQUANTO*/
+	enquanto i < 10 faca
+		j <- 1
+		/*
+		ENQUANTO
+		*/
+		enquanto j < 10 faca
+			escreva i + j
+			j <- j + 1
+		fimenquanto
+		i <- i + 1
+	fimenquanto
+fimprograma
